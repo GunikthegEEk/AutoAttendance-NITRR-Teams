@@ -27,3 +27,5 @@ Created using Python3 + Selenium + BS4
 
 ------
 Run First.py to start. { py.exe Firstpy }
+
+Disclaimer : This Content has been made available for informational and educational purposes only :p
