@@ -26,6 +26,6 @@ Created using Python3 + Selenium + BS4
 6. <Line 81> Change driver code according to your need. (Currently runs total 25 times - approx. every 10 mins for 4 hours)
 
 ------
-Run First.py to start. { py.exe Firstpy }
+Run First.py to start. { py.exe First.py }
 
 Disclaimer : This Content has been made available for informational and educational purposes only :p
